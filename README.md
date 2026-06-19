@@ -1,7 +1,7 @@
 # Netflix Movies & TV Shows: Exploratory Data Analysis and Insights Report
 
 ## Dataset Link
-https://www.kaggle.com/datasets/shailajakodag1/netflix-titlescsv
+https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Description
 Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset using Python, Pandas, Matplotlib, and Seaborn.
